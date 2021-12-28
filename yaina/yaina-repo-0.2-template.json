@@ -1,7 +1,7 @@
 {
-  "id" : "yaina-repo",
-  "description" : "this is just a template for testing :)",
-  "version" : "0.2",
+  id: "yaina-repo",
+  description: "this is just a template for testing :)",
+  version : "0.2",
   "components" : "",
   "responseFilters" : "",
   "rules" : [ {
