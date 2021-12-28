@@ -1,5 +1,5 @@
 {
-  "yaina-repo" : {
-    "versions" : [ "0.2" ]
+  yaina-repo {
+    versions [ "0.2" ]
   }
 }
